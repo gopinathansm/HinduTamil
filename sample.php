@@ -1,1 +1,1 @@
-<?php echo "Welcome"; ?>
+<?php echo "Welcome to Hindu Tamil"; ?>
